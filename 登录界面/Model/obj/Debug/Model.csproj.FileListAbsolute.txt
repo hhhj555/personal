@@ -1,0 +1,11 @@
+E:\个人项目\登录界面\Model\bin\Debug\Model.dll
+E:\个人项目\登录界面\Model\bin\Debug\Model.pdb
+E:\个人项目\登录界面\Model\obj\Debug\Model.dll
+E:\个人项目\登录界面\Model\obj\Debug\Model.pdb
+E:\个人项目\登录界面\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\ZZH\Desktop\个人毕业项目\登录界面\Model\bin\Debug\Model.dll
+C:\Users\ZZH\Desktop\个人毕业项目\登录界面\Model\bin\Debug\Model.pdb
+C:\Users\ZZH\Desktop\个人毕业项目\登录界面\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\ZZH\Desktop\个人毕业项目\登录界面\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\ZZH\Desktop\个人毕业项目\登录界面\Model\obj\Debug\Model.dll
+C:\Users\ZZH\Desktop\个人毕业项目\登录界面\Model\obj\Debug\Model.pdb

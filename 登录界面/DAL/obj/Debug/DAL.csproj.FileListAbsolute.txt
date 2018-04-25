@@ -1,0 +1,15 @@
+E:\个人项目\登录界面\DAL\bin\Debug\DAL.dll
+E:\个人项目\登录界面\DAL\bin\Debug\DAL.pdb
+E:\个人项目\登录界面\DAL\bin\Debug\Model.dll
+E:\个人项目\登录界面\DAL\bin\Debug\Model.pdb
+E:\个人项目\登录界面\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\个人项目\登录界面\DAL\obj\Debug\DAL.dll
+E:\个人项目\登录界面\DAL\obj\Debug\DAL.pdb
+C:\Users\ZZH\Desktop\个人毕业项目\登录界面\DAL\bin\Debug\DAL.dll
+C:\Users\ZZH\Desktop\个人毕业项目\登录界面\DAL\bin\Debug\DAL.pdb
+C:\Users\ZZH\Desktop\个人毕业项目\登录界面\DAL\bin\Debug\Model.dll
+C:\Users\ZZH\Desktop\个人毕业项目\登录界面\DAL\bin\Debug\Model.pdb
+C:\Users\ZZH\Desktop\个人毕业项目\登录界面\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\ZZH\Desktop\个人毕业项目\登录界面\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\ZZH\Desktop\个人毕业项目\登录界面\DAL\obj\Debug\DAL.dll
+C:\Users\ZZH\Desktop\个人毕业项目\登录界面\DAL\obj\Debug\DAL.pdb
